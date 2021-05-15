@@ -1,0 +1,3 @@
+Hello world
+this is a sample file 'adding in merge/B'
+these will be seen in merge/B
